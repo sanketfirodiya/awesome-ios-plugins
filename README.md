@@ -5,7 +5,7 @@ An awesome list of awesome iOS plugins!
 ---
 Highlights the current editing line in Xcode.
 <br/><br/>
-![Backlight](https://github.com/sanketfirodiya/awesome-ios-plugins/screenshots/Backlight.png)
+![Backlight](https://github.com/sanketfirodiya/awesome-ios-plugins/blob/master/screenshots/Backlight.png)
 
 <br/>
 
@@ -13,7 +13,7 @@ Highlights the current editing line in Xcode.
 ---
 Xcode plug-in that provides autocomplete for imageNamed: calls.
 <br/><br/>
-![KSImageNamed](https://github.com/sanketfirodiya/sample-watchkit-apps/blob/master/images/Lists.png)
+![KSImageNamed](https://github.com/sanketfirodiya/awesome-ios-plugins/blob/master/screenshots/KSImageNamed.gif)
 
 <br/>
 
@@ -21,7 +21,7 @@ Xcode plug-in that provides autocomplete for imageNamed: calls.
 ---
 Plugin for Xcode to make working with colors more visual.
 <br/><br/>
-![ColorSense](https://github.com/sanketfirodiya/sample-watchkit-apps/blob/master/images/Lists.png)
+![ColorSense](https://github.com/sanketfirodiya/awesome-ios-plugins/blob/master/screenshots/ColorSense)
 
 <br/>
 
@@ -29,7 +29,7 @@ Plugin for Xcode to make working with colors more visual.
 ---
 Sublime Text like Minimap for Xcode.
 <br/><br/>
-![SCXcodeMiniMap](https://github.com/sanketfirodiya/sample-watchkit-apps/blob/master/images/Lists.png)
+![SCXcodeMiniMap](https://github.com/sanketfirodiya/awesome-ios-plugins/blob/master/screenshots/SCXcodeMiniMap.gif)
 
 <br/>
 
@@ -37,7 +37,7 @@ Sublime Text like Minimap for Xcode.
 ---
 Xcode plugin that enables switch cases autocompletion.
 <br/><br/>
-![SCXcodeSwitchExpander](https://github.com/sanketfirodiya/sample-watchkit-apps/blob/master/images/Lists.png)
+![SCXcodeSwitchExpander](https://github.com/sanketfirodiya/awesome-ios-plugins/blob/master/screenshots/SCXcodeSwitchExpander.gif)
 
 <br/>
 
@@ -45,7 +45,7 @@ Xcode plugin that enables switch cases autocompletion.
 ---
 Xcode plug-in which helps you write documentation comment easier, for both Objective-C and Swift.
 <br/><br/>
-![VVDocumenter](https://github.com/sanketfirodiya/sample-watchkit-apps/blob/master/images/Lists.png)
+![VVDocumenter](https://github.com/sanketfirodiya/awesome-ios-plugins/blob/master/screenshots/VVDocumenter.gif)
 
 <br/>
 
@@ -53,7 +53,7 @@ Xcode plug-in which helps you write documentation comment easier, for both Objec
 ---
 Plugin for Xcode to make working with colors more visual.
 <br/><br/>
-![XAlign](https://github.com/sanketfirodiya/sample-watchkit-apps/blob/master/images/Lists.png)
+![XAlign](https://github.com/sanketfirodiya/awesome-ios-plugins/blob/master/screenshots/XAlign.gif)
 
 <br/>
 
@@ -61,6 +61,6 @@ Plugin for Xcode to make working with colors more visual.
 ---
 Xcode plugin to collect and list the `TODO`,`FIXME`.
 <br/><br/>
-![XToDo](https://github.com/sanketfirodiya/sample-watchkit-apps/blob/master/images/Lists.png)
+![XToDo](https://github.com/sanketfirodiya/awesome-ios-plugins/blob/master/screenshots/XToDo.png)
 
 <br/>
