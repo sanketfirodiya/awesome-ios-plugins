@@ -5,7 +5,7 @@ An awesome list of awesome iOS plugins!
 ---
 Highlights the current editing line in Xcode.
 <br/><br/>
-![Backlight](https://github.com/sanketfirodiya/sample-watchkit-apps/blob/master/images/Calculator.png)
+![Backlight](https://github.com/sanketfirodiya/awesome-ios-plugins/screenshots/Backlight.png)
 
 <br/>
 
