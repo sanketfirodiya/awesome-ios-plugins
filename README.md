@@ -1,6 +1,8 @@
 # awesome-ios-plugins
 An awesome list of awesome iOS plugins!
 
+Want to help - Star the repo or create a pull request to contribute your own plugins :)
+
 1. [Backlight](https://github.com/limejelly/Backlight-for-XCode) 
 ---
 Highlights the current editing line in Xcode.
