@@ -21,7 +21,7 @@ Xcode plug-in that provides autocomplete for imageNamed: calls.
 ---
 Plugin for Xcode to make working with colors more visual.
 <br/><br/>
-![ColorSense](https://github.com/sanketfirodiya/awesome-ios-plugins/blob/master/screenshots/ColorSense)
+![ColorSense](https://github.com/sanketfirodiya/awesome-ios-plugins/blob/master/screenshots/ColorSense.png)
 
 <br/>
 
@@ -29,7 +29,7 @@ Plugin for Xcode to make working with colors more visual.
 ---
 Sublime Text like Minimap for Xcode.
 <br/><br/>
-![SCXcodeMiniMap](https://github.com/sanketfirodiya/awesome-ios-plugins/blob/master/screenshots/SCXcodeMiniMap.gif)
+![SCXcodeMiniMap](https://github.com/sanketfirodiya/awesome-ios-plugins/blob/master/screenshots/%20SCXcodeMiniMap.gif)
 
 <br/>
 
@@ -45,7 +45,7 @@ Xcode plugin that enables switch cases autocompletion.
 ---
 Xcode plug-in which helps you write documentation comment easier, for both Objective-C and Swift.
 <br/><br/>
-![VVDocumenter](https://github.com/sanketfirodiya/awesome-ios-plugins/blob/master/screenshots/VVDocumenter.gif)
+![VVDocumenter](https://github.com/sanketfirodiya/awesome-ios-plugins/blob/master/screenshots/%20VVDocumenter.gif)
 
 <br/>
 
@@ -53,7 +53,7 @@ Xcode plug-in which helps you write documentation comment easier, for both Objec
 ---
 Plugin for Xcode to make working with colors more visual.
 <br/><br/>
-![XAlign](https://github.com/sanketfirodiya/awesome-ios-plugins/blob/master/screenshots/XAlign.gif)
+![XAlign](https://github.com/sanketfirodiya/awesome-ios-plugins/blob/master/screenshots/%20XAlign.gif)
 
 <br/>
 
