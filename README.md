@@ -53,7 +53,7 @@ Xcode plug-in which helps you write documentation comment easier, for both Objec
 
 7. [XAlign](https://github.com/qfish/XAlign)
 ---
-Plugin for Xcode to make working with colors more visual.
+An amazing Xcode plugin to align regular code. it can align Xnything in any way you want.
 <br/><br/>
 ![XAlign](https://github.com/sanketfirodiya/awesome-ios-plugins/blob/master/screenshots/%20XAlign.gif)
 
