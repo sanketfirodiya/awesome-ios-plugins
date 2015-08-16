@@ -66,3 +66,8 @@ Xcode plugin to collect and list the `TODO`,`FIXME`.
 ![XToDo](https://github.com/sanketfirodiya/awesome-ios-plugins/blob/master/screenshots/XToDo.png)
 
 <br/>
+
+## More awesome lists for iOS devs
+- https://github.com/sanketfirodiya/iOS-learning-resources
+https://github.com/sanketfirodiya/sample-watchkit-apps
+- https://github.com/sanketfirodiya/ios-marketing-resources
