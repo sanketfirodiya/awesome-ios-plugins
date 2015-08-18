@@ -67,6 +67,14 @@ Xcode plugin to collect and list the `TODO`,`FIXME`.
 
 <br/>
 
+8. [CocoaPods for Xcode](https://github.com/kattrali/cocoapods-xcode-plugin)
+---
+Dependency management helper for your CocoaPods, right in Xcode.
+<br/><br/>
+![XToDo](https://github.com/sanketfirodiya/awesome-ios-plugins/blob/master/screenshots/Cocoapods.png)
+
+<br/>
+
 ## More awesome lists for iOS devs
 - https://github.com/sanketfirodiya/iOS-learning-resources
 https://github.com/sanketfirodiya/sample-watchkit-apps
