@@ -77,5 +77,5 @@ Dependency management helper for your CocoaPods, right in Xcode.
 
 ## More awesome lists for iOS devs
 - https://github.com/sanketfirodiya/iOS-learning-resources
-https://github.com/sanketfirodiya/sample-watchkit-apps
+- https://github.com/sanketfirodiya/sample-watchkit-apps
 - https://github.com/sanketfirodiya/ios-marketing-resources
