@@ -75,6 +75,14 @@ Dependency management helper for your CocoaPods, right in Xcode.
 
 <br/>
 
+10. [Peckham](https://github.com/markohlebar/Peckham)
+---
+Add #import-s from anywhere in the code.
+<br/><br/>
+![Peckham](https://github.com/sanketfirodiya/awesome-ios-plugins/blob/master/screenshots/Peckham.gif)
+
+<br/>
+
 ## More awesome lists for iOS devs
 - https://github.com/sanketfirodiya/iOS-learning-resources
 - https://github.com/sanketfirodiya/sample-watchkit-apps
