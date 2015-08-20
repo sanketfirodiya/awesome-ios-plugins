@@ -83,6 +83,14 @@ Add #import-s from anywhere in the code.
 
 <br/>
 
+11. [FuzzyAutoComplete](https://github.com/FuzzyAutocomplete/FuzzyAutocompletePlugin)
+---
+A Xcode 5+ plugin that adds more flexible autocompletion rather than just prefix-matching.
+<br/><br/>
+![FuzzyAutoComplete](https://github.com/sanketfirodiya/awesome-ios-plugins/blob/master/screenshots/FuzzyAutoComplete.gif)
+
+<br/>
+
 ## More awesome lists for iOS devs
 - https://github.com/sanketfirodiya/iOS-learning-resources
 - https://github.com/sanketfirodiya/sample-watchkit-apps
