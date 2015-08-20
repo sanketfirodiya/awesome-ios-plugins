@@ -95,3 +95,8 @@ A Xcode 5+ plugin that adds more flexible autocompletion rather than just prefix
 - https://github.com/sanketfirodiya/iOS-learning-resources
 - https://github.com/sanketfirodiya/sample-watchkit-apps
 - https://github.com/sanketfirodiya/ios-marketing-resources
+
+<br/>
+
+## Contact
+For more awesome stuff, you should follow me on twitter [@SanketFirodiya](https://twitter.com/sanketfirodiya) :)
