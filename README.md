@@ -95,7 +95,15 @@ A Xcode 5+ plugin that adds more flexible autocompletion rather than just prefix
 ---
 Plugin for Xcode to make working with strings less "escaped".
 <br/><br/>
-![HOStringSense for Xcode](https://github.com/rakii/awesome-ios-plugins/blob/master/screenshots/HOStringSense.gif)
+![HOStringSense for Xcode](https://github.com/sanketfirodiya/awesome-ios-plugins/blob/master/screenshots/HOStringSense.gif)
+
+<br/>
+
+13. [Lin Xcode5](https://github.com/questbeat/Lin-Xcode5)
+---
+A Localization Manager for Xcode 5.
+<br/><br/>
+![Lin Xcode5](https://github.com/sanketfirodiya/awesome-ios-plugins/blob/master/screenshots/Lin-Xcode.gif)
 
 <br/>
 
