@@ -105,6 +105,12 @@ A Localization Manager for Xcode 5.
 <br/><br/>
 ![Lin Xcode5](https://github.com/sanketfirodiya/awesome-ios-plugins/blob/master/screenshots/Lin-Xcode.gif)
 
+14. [DerivedData Exterminator](https://github.com/kattrali/deriveddata-exterminator)
+---
+A magic button in Xcode to exterminate the current project's DerivedData directories.
+<br/><br/>
+![Lin Xcode5](https://github.com/sanketfirodiya/awesome-ios-plugins/blob/master/screenshots/DerivedData.png)
+
 <br/>
 
 ## More awesome lists for iOS devs
