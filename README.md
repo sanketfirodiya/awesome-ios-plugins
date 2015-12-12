@@ -113,6 +113,14 @@ A magic button in Xcode to exterminate the current project's DerivedData directo
 
 <br/>
 
+15. [Xvim](https://github.com/XVimProject/XVim)
+---
+XVim is a Vim plugin for Xcode. The plugin intends to offer a compelling Vim experience without the need to give up any Xcode features.
+
+![Xvim](http://i.imgur.com/UezSflH.png)
+
+Screenshot from <http://xvim.org>
+
 ## More awesome lists for iOS devs
 - https://github.com/sanketfirodiya/iOS-learning-resources
 - https://github.com/sanketfirodiya/sample-watchkit-apps
