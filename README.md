@@ -111,6 +111,18 @@ A magic button in Xcode to exterminate the current project's DerivedData directo
 <br/><br/>
 ![Lin Xcode5](https://github.com/sanketfirodiya/awesome-ios-plugins/blob/master/screenshots/DerivedData.png)
 
+15. [Marvin for Xcode](https://github.com/zenangst/MarvinXcode)
+---
+Marvin is a plugin for Xcode, it adds a large collection of text selections, duplication and deletion commands.
+<br/><br/>
+![Marvin for Xcode](https://raw.githubusercontent.com/zenangst/MarvinXcode/master/screenshot.png)
+
+16. [ChangeMarks](https://github.com/zenangst/ChangeMarks)
+---
+Change Marks helps you to keep track of your most recent changes by giving them a different background color.
+<br/><br/>
+![Change Marks](https://raw.githubusercontent.com/zenangst/ChangeMarks/master/screenshot.png)
+
 <br/>
 
 ## More awesome lists for iOS devs
